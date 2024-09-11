@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "Billing": "Billing Panel",
+  "Panel": "Panel",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/NodeByteHosting",
+    "newWindow": true
+  }
+}
