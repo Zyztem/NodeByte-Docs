@@ -48,7 +48,10 @@ const config: DocsThemeConfig = {
   🎉 New Knowledgebase Site.
   </a>
   )
-  }
+  },
+  i18n: [
+    { locale: 'en-US', text: 'English' },
+  ]
 }
 
 export default config
