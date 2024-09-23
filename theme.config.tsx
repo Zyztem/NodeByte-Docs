@@ -17,7 +17,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/NodeByteHosting/NodeByte-Docs',
   footer: {
-    text: '©Copyright 2024 | NodeByte Hosting',
+    text: '© All Copyright 2024 by NodeByte LTD',
   },
   primaryHue: 264,
   head: (
