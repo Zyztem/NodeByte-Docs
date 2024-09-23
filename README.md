@@ -2,7 +2,7 @@
 
 👋 Welcoem to the NodeByte Docs
 
-[**Site→**](https://docs.nodebyte.host)
+[**Site→**](https://docs.NodeByte.host)
 
 [![](.github/screenshot.png)](https://docs.nodebyte.host/)
 
