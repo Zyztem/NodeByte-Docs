@@ -2,6 +2,7 @@
   "index": "Introduction",
   "Billing": "Billing Panel",
   "Panel": "Panel",
+  "VPS": "VPS",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +10,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/NodeByteHosting",
+    "href": "mailto:support@nodebyte.host",
     "newWindow": true
   }
 }
