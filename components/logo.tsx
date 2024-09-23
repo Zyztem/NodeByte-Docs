@@ -19,7 +19,7 @@ const Logo = () => {
         style={{ width: 50, height: 50 }}
       />
       <span style={{ marginLeft: 10 }}>
-        NodeByte Documentation
+        NodeByte Knowledgebase
       </span>
     </div>
   );
