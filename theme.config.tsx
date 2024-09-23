@@ -51,7 +51,10 @@ const config: DocsThemeConfig = {
   },
   i18n: [
     { locale: 'en-US', text: 'English' },
-  ]
+  ],
+  search: {
+    placeholder: 'Search the knowledgebase…',
+  },
 }
 
 export default config
