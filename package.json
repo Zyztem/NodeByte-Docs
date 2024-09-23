@@ -1,23 +1,15 @@
 {
-  "name": "nextra-docs-template",
+  "name": "nodebytedocs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "NodeByte Docs Site.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "PORT=4000 next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
-  },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "NodeByte Hosting",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
-  },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
-  "dependencies": {
+ "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
