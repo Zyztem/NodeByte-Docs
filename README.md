@@ -1,6 +1,6 @@
 # NodeByte Hosting Docs
 
-👋 Welcoem to the NodeByte Docs
+👋 Welcome to the NodeByte Docs
 
 [**Site→**](https://docs.NodeByte.host)
 
