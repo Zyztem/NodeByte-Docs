@@ -1,6 +1,7 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 import Logo from './components/logo'
+import Footer from './components/footer'
 
 const config: DocsThemeConfig = {
   useNextSeoProps() {
@@ -17,7 +18,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/NodeByteHosting/NodeByte-Docs',
   footer: {
-    text: '© All Copyright 2024 by NodeByte LTD',
+    text: <Footer />
   },
   primaryHue: 264,
   head: (
