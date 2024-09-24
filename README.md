@@ -9,11 +9,11 @@
 
 ## Local Development
 
-First, run `npm install` to install the dependencies.
+First, run `pnpm install` to install the dependencies.
 
-Then, run `npm run build` to build the site.
+Then, run `pnpm run build` to build the site.
 
-Last, run `npm run dev` to start the development server and visit localhost:3000.
+Last, run `pnpm run dev` to start the development server and visit localhost:3000.
 
 ## License
 

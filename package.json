@@ -8,6 +8,9 @@
     "start": "PORT=3000 next start"
   },
   "author": "NodeByte Hosting",
+  "contributors": [
+    "Zyztem (https://github.com/Zyztem)"
+  ],
   "license": "MIT",
   "dependencies": {
     "next": "^13.0.6",
