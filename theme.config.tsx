@@ -23,7 +23,7 @@ const config: DocsThemeConfig = {
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta property="og:title" content="NodeByte Knowledgebase" />
-      <meta property="og:description" content="Welcome to the **NodeByte Hosting Knowledge Base**! Explore guides, troubleshooting tips, and best practices to make the most of our hosting services. Whether you're just starting or need advanced help, we've got the resources you need." />
+      <meta property="og:description" content="The docs site for NodeByte Hosting" />
     </>
   ),
  banner: {
