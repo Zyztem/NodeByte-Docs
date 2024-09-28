@@ -5,19 +5,23 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "PORT=4000 next start"
+    "start": "PORT=3000 next start"
   },
   "author": "NodeByte Hosting",
+  "contributors": [
+    "Zyztem (https://github.com/Zyztem)"
+  ],
   "license": "MIT",
- "dependencies": {
-    "next": "^13.0.6",
-    "nextra": "latest",
-    "nextra-theme-docs": "latest",
+  "dependencies": {
+    "next": "^14.2.5",
+    "nextra": "^2.13.4 <3.x.x",
+    "nextra-theme-docs": "^2.13.4 <3.x.x",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
     "typescript": "^4.9.3"
-  }
+  },
+  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b"
 }

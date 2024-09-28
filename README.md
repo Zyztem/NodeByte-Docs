@@ -1,19 +1,19 @@
-# NodeByte Hosting Docs
+# NodeByte Hosting Documentation
 
-👋 Welcoem to the NodeByte Docs
+👋 Welcome to the NodeByte Documentation
 
-[**Site→**](https://docs.nodebyte.host)
+[**Site→**](https://docs.NodeByte.host)
 
-[![](.github/screenshot.png)](https://docs.nodebyte.host/)
+<!-- [![](.github/screenshot.png)](https://docs.nodebyte.host/) -->
 
 
 ## Local Development
 
-First, run `npm install` to install the dependencies.
+First, run `pnpm install` to install the dependencies.
 
-Then, run `npm run build` to build the site.
+Then, run `pnpm run build` to build the site.
 
-Last, run `npm run dev` to start the development server and visit localhost:3000.
+Last, run `pnpm run dev` to start the development server and visit [localhost:3000](http://localhost:3000).
 
 ## License
 

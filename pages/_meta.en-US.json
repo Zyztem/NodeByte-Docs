@@ -7,6 +7,12 @@
     "title": "About",
     "type": "page"
   },
+  "Website": {
+    "title": "Website",
+    "type": "page",
+    "href": "https://NodeByte.host",
+    "newWindow": true
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
