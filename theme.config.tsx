@@ -57,7 +57,7 @@ const config: DocsThemeConfig = {
     placeholder: 'Search the knowledgebase…',
   },
   toc: {
-    backToTop: true
+    backToTop: false
   }
 }
 
