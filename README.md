@@ -4,7 +4,7 @@
 
 [**Site→**](https://docs.NodeByte.host)
 
-[![](.github/screenshot.png)](https://docs.nodebyte.host/)
+<!-- [![](.github/screenshot.png)](https://docs.nodebyte.host/) -->
 
 
 ## Local Development
