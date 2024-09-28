@@ -56,9 +56,6 @@ const config: DocsThemeConfig = {
   search: {
     placeholder: 'Search the knowledgebase…',
   },
-  toc: {
-    backToTop: true
-  }
 }
 
 export default config
