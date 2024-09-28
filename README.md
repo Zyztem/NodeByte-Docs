@@ -1,6 +1,6 @@
-# NodeByte Hosting Docs
+# NodeByte Hosting Documentation
 
-👋 Welcoem to the NodeByte Docs
+👋 Welcome to the NodeByte Documentation
 
 [**Site→**](https://docs.NodeByte.host)
 
@@ -13,7 +13,7 @@ First, run `pnpm install` to install the dependencies.
 
 Then, run `pnpm run build` to build the site.
 
-Last, run `pnpm run dev` to start the development server and visit localhost:3000.
+Last, run `pnpm run dev` to start the development server and visit [localhost:3000](http://localhost:3000).
 
 ## License
 
