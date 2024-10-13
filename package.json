@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "NodeByte Docs Site.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "npm run dev",
+    "build": "npm run build",
     "start": "PORT=3000 next start"
   },
   "author": "NodeByte Hosting",
